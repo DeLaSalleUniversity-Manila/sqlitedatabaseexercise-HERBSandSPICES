@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">SampleDatabase</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="products">
+        <item>Phone</item>
+        <item>Notebooks</item>
+        <item>Tablet</item>
+        <item>Accessories</item>
+    </string-array>
+
+    <string-array name="notebook">
+        <item>Mac Book</item>
+        <item>Mac Book Pro</item>
+        <item>Mac Book Air</item>
+    </string-array>
+    <string name="title_activity_category">Category</string>
+    <string name="title_activity_products">Products</string>
+    <string name="title_activity_database_helper">DatabaseHelper</string>
+</resources>
